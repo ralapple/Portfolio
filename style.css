@@ -1,0 +1,18 @@
+.recent_message{
+    color: white;   
+    border-style: dotted;
+    line-height: 2%;
+
+}
+
+#message_list{
+    border-style: groove;
+    overflow: hidden;
+    overflow-y: scroll;
+    max-height: 200px;
+}
+
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
